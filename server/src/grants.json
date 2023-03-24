@@ -1,0 +1,362 @@
+[
+  {
+    "role": "applicant",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "UserProfile",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "UserProfile",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "UserProfile",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "UserProfile",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "UserProfile",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "UserProfile",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "UserProfile",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "UserProfile",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "UserProfile",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "UserProfile",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "UserProfile",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "UserProfile",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "UserProfile",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "UserProfile",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "UserProfile",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "UserProfile",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "UserProfile",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "UserProfile",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "UserProfile",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "UserProfile",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "applicant",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "tenant",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "landlord",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
